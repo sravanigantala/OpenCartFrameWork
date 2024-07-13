@@ -1,0 +1,48 @@
+2024-07-13 11:53:09 INFO  TC001_AccountRegistrationTest:13 -
+			***** Starting TC001_AccountRegistrationTest  ****
+2024-07-13 11:53:09 INFO  TC001_AccountRegistrationTest:21 -
+			Clicked on MyAccount Link.. 
+2024-07-13 11:53:10 INFO  TC001_AccountRegistrationTest:24 -
+			Clicked on Register Link.. 
+2024-07-13 11:53:10 INFO  TC001_AccountRegistrationTest:26 -
+			Providing customer details...
+2024-07-13 11:53:13 INFO  TC001_AccountRegistrationTest:43 -
+			Validating expected message..
+2024-07-13 11:53:14 INFO  TC001_AccountRegistrationTest:48 -
+			Test passed
+2024-07-13 11:53:14 INFO  TC001_AccountRegistrationTest:54 -
+			***** Finished TC001_AccountRegistrationTest *****
+2024-07-13 11:53:22 INFO  TC002_LoginTest:15 -
+			*********TC002_LoginTest started**********
+2024-07-13 11:53:22 INFO  TC002_LoginTest:22 -
+			Cicked on My Account page
+2024-07-13 11:53:23 INFO  TC002_LoginTest:25 -
+			Cicked on My Login link under my account page
+2024-07-13 11:53:24 INFO  TC002_LoginTest:32 -
+			Cicked on Login button
+2024-07-13 11:53:24 INFO  TC002_LoginTest:45 -
+			*********TC002_LoginTest finished**********
+2024-07-13 12:10:42 INFO  TC001_AccountRegistrationTest:13 -
+			***** Starting TC001_AccountRegistrationTest  ****
+2024-07-13 12:10:42 INFO  TC001_AccountRegistrationTest:21 -
+			Clicked on MyAccount Link.. 
+2024-07-13 12:10:43 INFO  TC001_AccountRegistrationTest:24 -
+			Clicked on Register Link.. 
+2024-07-13 12:10:43 INFO  TC001_AccountRegistrationTest:26 -
+			Providing customer details...
+2024-07-13 12:10:46 INFO  TC001_AccountRegistrationTest:43 -
+			Validating expected message..
+2024-07-13 12:10:46 INFO  TC001_AccountRegistrationTest:48 -
+			Test passed
+2024-07-13 12:10:46 INFO  TC001_AccountRegistrationTest:54 -
+			***** Finished TC001_AccountRegistrationTest *****
+2024-07-13 12:10:51 INFO  TC002_LoginTest:15 -
+			*********TC002_LoginTest started**********
+2024-07-13 12:10:51 INFO  TC002_LoginTest:22 -
+			Cicked on My Account page
+2024-07-13 12:10:52 INFO  TC002_LoginTest:25 -
+			Cicked on My Login link under my account page
+2024-07-13 12:10:53 INFO  TC002_LoginTest:32 -
+			Cicked on Login button
+2024-07-13 12:10:53 INFO  TC002_LoginTest:45 -
+			*********TC002_LoginTest finished**********

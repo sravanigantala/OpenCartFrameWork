@@ -1,0 +1,2 @@
+cd C:\WorkSpaces\Java WorkSpace\OpenCartFrameWork
+mvn test
